@@ -1,0 +1,6 @@
+{
+  "name": "Matrix",
+  "description": "100% offline Personal Assistant app with local AI, voice biometrics, and RPA capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

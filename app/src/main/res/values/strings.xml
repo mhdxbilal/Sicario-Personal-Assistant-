@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Matrix</string>
+    <string name="accessibility_description">Matrix Offline Assistant Service handles hands-free RPA automation, vertical video scrolling gestures, and global navigation controls local to the device.</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer concentric power rings (cybernetic glow) -->
+    <path
+        android:pathData="M 54 24 A 30 30 0 1 1 53.9 24"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+        
+    <path
+        android:pathData="M 54 30 A 24 24 0 1 1 53.9 30"
+        android:strokeColor="#FF9800"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Wave Tendrils Radiating Outward (similar to the high-tech gold eye strands) -->
+    <path
+        android:pathData="M 54 12 L 54 20 M 54 88 L 54 96 M 12 54 L 20 54 M 88 54 L 96 54"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M 28 28 L 36 36 M 72 72 L 80 80 M 80 28 L 72 36 M 36 72 L 28 80"
+        android:strokeColor="#FFCA28"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M 54,30 C 40,30 32,54 32,54 C 32,54 40,78 54,78 C 68,78 76,54 76,54 C 76,54 68,30 54,30 Z"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Central Amber/Gold Sclera & Iris -->
+    <path
+        android:pathData="M 54 44 A 10 10 0 1 1 53.9 44"
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="4" />
+        
+    <!-- Main Pupil (Black Void in Center) -->
+    <path
+        android:pathData="M 54 48 A 6 6 0 1 1 53.9 48"
+        android:fillColor="#151410" />
+
+    <!-- Small Core highlight (Eye Reflection) -->
+    <path
+        android:pathData="M 51 51 A 2 2 0 1 1 50.9 51"
+        android:fillColor="#FFFFFF" />
+
+</vector>
